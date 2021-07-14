@@ -1,0 +1,8 @@
+# Colores
+        export R='\033[1;31m'
+        export G='\033[1;32m'
+        export Y='\033[1;33m'
+        export B='\033[1;34m'
+        export M='\033[1;35m'
+        export C='\033[1;36m'
+        export W='\033[0m'
